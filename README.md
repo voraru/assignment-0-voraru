@@ -1,9 +1,9 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: Rushil Vora
 
-ONID ID: `ONID_ID`
+ONID ID: 932-350-583
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course.  It should be very straightforward.  It has two parts.
 
