@@ -42,3 +42,12 @@ The other tool we'll be using quite a bit for this course is Git/GitHub.  You're
 ## Submission
 
 Submit the assignment via GitHub Classroom by the due date above.
+
+## Grading criteria
+
+The assignment is worth 100 total points, broken down as follows:
+* 50 points: Signed up for Piazza
+* 50 points: Followed the instructions for using Git/GitHub
+  * 10 points: Updated `README.md` with the right info
+  * 20 points: Added `about_me.md` with the requested info
+  * 20 points: Added `me.jpg` with a photo containing a clear picture of your face
